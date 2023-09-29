@@ -1,0 +1,48 @@
+body{
+    background-image: url("f692a72c61820a31f25e880aa5e91854.jpg");
+    margin: 0px;
+    padding: 0px;
+    font-family: monospace;
+}
+h1{
+    padding: 0px 0px;
+    margin-block-start: 0%;
+    margin-block-end: 0%;
+}
+.name
+{
+    padding-top: 10px;
+    font-weight: 0px;
+    font-size: 40px;
+}
+.cour{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+.topnav {
+   
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 10px 16px;
+    padding-bottom: 7px;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+   
+    color: rgb(0, 0, 0);
+  }

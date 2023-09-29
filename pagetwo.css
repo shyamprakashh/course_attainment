@@ -1,0 +1,38 @@
+body{
+    background-image: url("sam.png");
+    background-repeat: repeat;
+    font-size: larger;
+}
+.add{
+     background-color: rgb(106, 147, 213);
+     border-radius: 20%;
+     padding: 0%;
+     border-style: none;
+     height :30px;
+     width :50px;
+     font-size: large;
+}
+.add:hover{
+    background-color: black;
+    color:rgb(255, 255, 255);
+    transition-delay: 0s;
+}
+.clear{
+    background-color: rgb(106, 184, 233);
+    border-radius: 20%;
+     padding: 0%;
+     border-style: none;
+     height :30px;
+     width :80px;
+     font-size: large;
+}
+.clear:hover{
+    background-color: black;
+    color:white;
+    transition-delay: 0s;
+}
+.sam
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
